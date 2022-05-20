@@ -5,5 +5,5 @@ it might guide you through the fundamentals. After cloning,
 1. On the terminal, 
   npm i
   npm start
-2. On the browser, localhost:4003/
+2. On the browser, localhost:3000/
 3. Enjoy!
