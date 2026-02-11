@@ -15,7 +15,7 @@
     "author": "Saf",
     "license": "ISC",
     "dependencies": {
-        "@ckeditor/ckeditor5-media-embed": "^18.0.0",
+        "@ckeditor/ckeditor5-media-embed": "^27.0.0",
         "@google-cloud/storage": "^4.0.0",
         "bcryptjs": "^2.4.3",
         "body-parser": "^1.19.0",
